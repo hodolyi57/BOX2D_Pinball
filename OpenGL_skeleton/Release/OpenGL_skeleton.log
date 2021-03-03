@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\speed\OneDrive\바탕 화면\학교\20-2\인터렉티브시각화\미니프로젝트\OpenGL_skeleton\OpenGL_skeleton\main.cpp(131,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+simulator.obj : error LNK2005: "float Ground_y" (?Ground_y@@3MA)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "float * gravity" (?gravity@@3PAMA)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "float time" (?time@@3MA)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "float * ex_force" (?ex_force@@3PAMA)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "struct Circle circle" (?circle@@3UCircle@@A)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "class std::vector<struct Circle,class std::allocator<struct Circle> > path" (?path@@3V?$vector@UCircle@@V?$allocator@UCircle@@@std@@@std@@A)이(가) main.obj에 이미 정의되어 있습니다.
+simulator.obj : error LNK2005: "void __cdecl Update(int)" (?Update@@YAXH@Z)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "float Ground_y" (?Ground_y@@3MA)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "float * gravity" (?gravity@@3PAMA)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "float time" (?time@@3MA)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "float * ex_force" (?ex_force@@3PAMA)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "struct Circle circle" (?circle@@3UCircle@@A)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "class std::vector<struct Circle,class std::allocator<struct Circle> > path" (?path@@3V?$vector@UCircle@@V?$allocator@UCircle@@@std@@@std@@A)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ)이(가) main.obj에 이미 정의되어 있습니다.
+viewer.obj : error LNK2005: "void __cdecl Update(int)" (?Update@@YAXH@Z)이(가) main.obj에 이미 정의되어 있습니다.
+C:\Users\speed\OneDrive\바탕 화면\학교\20-2\인터렉티브시각화\미니프로젝트\OpenGL_skeleton\Release\OpenGL_skeleton.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
